@@ -88,4 +88,4 @@
 
 CPU(CPU 스케줄링) ↔ memory(메모리 관리) ↔ Disk(파일 관리) & I/O device(입출력 관리)
 
-![Untitled](1%E1%84%80%E1%85%A1%E1%86%BC%20242051096fad40008b1d4a17efd2215f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/33615669/199058243-9b018fbc-d7a5-4fe0-bc50-efa2a60d8580.png)
