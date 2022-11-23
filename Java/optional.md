@@ -1,7 +1,3 @@
-# Optional
-
-상태: 완료
-
 ## Optional이란?
 
 Java 8에 도입된 타입으로 NullPointException 예외를 방지하기 위해 등장했다.
