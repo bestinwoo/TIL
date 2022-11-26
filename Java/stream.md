@@ -335,3 +335,16 @@ Stream의 요소들을 대상으로 특정한 연산을 수행하고 싶은 경�
 List<String> fruits = List.of("apple", "banana", "grape");
 fruits.stream().forEach(System.out::println);
 ```
+
+
+
+## 참고
+
+[https://mangkyu.tistory.com/115](https://mangkyu.tistory.com/115)
+
+[https://pamyferret.tistory.com/43](https://pamyferret.tistory.com/43)
+
+
+
+
+
